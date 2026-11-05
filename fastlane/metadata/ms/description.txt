@@ -1,0 +1,12 @@
+SuperBerint membantu penternak merekod kutipan telur, menjejak stok dan jualan, serta merancang susunan karton. Pengguna juga boleh mereka label karton telur dan menyediakan helaian untuk dicetak.
+
+• Rekod kutipan dan kira “Pecahan karton”.
+• Jejak “Telur dalam stok”, jualan, “Kegunaan isi rumah” dan “Pembaziran / pecah”.
+• Semak “Trend kutipan” dan hasil mengikut mata wang dan tempoh.
+• Eksport data bagi satu tempoh sebagai CSV.
+• Cipta, simpan, pendua dan padam reka bentuk label dalam gaya “Ladang”, “Pasar” dan “Minimal”.
+• Sediakan dan kongsi helaian label untuk dicetak pada kertas “A4” atau “US Letter”, termasuk helaian yang tidak penuh.
+• Cetak semula label dan mulakan kutipan baharu daripada “Jurnal”.
+• Lihat ringkasan kutipan dalam widget Skrin Utama.
+
+Buka “Bantuan” untuk arahan di bawah “Daripada kutipan ke karton”.

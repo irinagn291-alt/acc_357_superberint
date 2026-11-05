@@ -1,0 +1,20 @@
+{
+  "overview": {
+    "headline": "Every egg accounted"
+  },
+  "stock": {
+    "headline": "Know your stock"
+  },
+  "sales": {
+    "headline": "Record every sale"
+  },
+  "insights": {
+    "headline": "See your progress"
+  },
+  "workshop": {
+    "headline": "Make it yours"
+  },
+  "print-sheet": {
+    "headline": "Ready to print"
+  }
+}

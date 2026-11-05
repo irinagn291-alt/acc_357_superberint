@@ -1,0 +1,15 @@
+No permission prompts appear, and the app declares no permission usage-description string.
+
+There is no login, in-app purchase, account deletion flow or App Tracking Transparency prompt. Users can enter farm names, notes, collection data, customer names and activity.
+
+SuperBerint helps egg keepers record collections, track stock and sales, and plan cartons. It also lets users design egg-carton labels and prepare printable sheets.
+
+On a cold launch, a progress indicator appears, followed by “Overview”. There is no onboarding sequence, and no credentials or demo account are needed. Tap “Log a collection” to open “Collections” on “Planner”. Enter “Eggs collected”, set “Carton capacity” and tap “Save collection”. Open “Stock” and select a collection to see “Collection stock”; tap “Record a sale” or “Household use or waste” to record activity. Open “Sales” to review “Sales & activity”, and open “Insights” to review results or use “Export period as CSV”. Open “Labels” to choose a “Label style”, edit “Label details”, save a design or tap “Print design” to prepare a sheet. “Help” opens instructions under “From collection to carton”.
+
+Designs, collections and activity are stored on the device; users can explicitly share a PDF or export a CSV, and the app also makes a network request during launch. “Contact Us” is available in “Help”.
+
+The native interface uses English and US formatting; currency is selectable independently of region.
+
+No licence or regulated-industry paperwork is indicated in the brief; the app records collections, stock and sales and prepares labels.
+
+The app is a personal log only and gives no recommendations.

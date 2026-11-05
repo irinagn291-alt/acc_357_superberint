@@ -1,0 +1,1 @@
+eggs,collections,stock,sales,cartons,labels,farm,journal,print,inventory

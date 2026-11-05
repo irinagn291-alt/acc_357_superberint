@@ -1,0 +1,12 @@
+SuperBerint helps egg keepers record collections, track stock and sales, and plan cartons. It also lets users design egg-carton labels and prepare printable sheets.
+
+• Log collections and calculate “Carton breakdown”.
+• Track “Eggs on hand”, sales, “Household use” and “Waste / breakage”.
+• Review “Collection trend” and revenue by currency and period.
+• Export a period as CSV.
+• Create, save, duplicate and delete label designs in “Farm”, “Market” and “Minimal” styles.
+• Prepare and share printable label sheets on “A4” or “US Letter”, including partial sheets.
+• Reprint labels and start a new collection from the “Journal”.
+• View a collection summary in a Home Screen widget.
+
+Open “Help” for instructions under “From collection to carton”.

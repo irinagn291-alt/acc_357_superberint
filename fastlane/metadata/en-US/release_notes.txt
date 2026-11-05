@@ -1,0 +1,1 @@
+Initial release: log collections, track stock and sales, review insights, and prepare printable egg-carton labels.

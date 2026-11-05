@@ -1,0 +1,1 @@
+telur,kutipan,stok,jualan,karton,label,ladang,jurnal,cetak,inventori
